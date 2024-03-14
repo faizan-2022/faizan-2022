@@ -1,5 +1,3 @@
-[![MasterHead](https://www.internetcreation.net/wp-content/uploads/2015/04/banner-web-development.png)](https://codingwithfaizan.netlify.app/)
-
 <h1 align="center">Hi 👋, I'm Muhammad Faizan Naeem</h1>
 <h3 align="center">Full Stack Developer(MERN Stack) | Entrepreneur | AL/ML/GenAI Enthusiast | Problem Solver</h3>
 
