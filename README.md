@@ -8,11 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://codingwithfaizan.netlify.app/](https://codingwithfaizan.netlify.app/)
 
-- 💬 Ask me about **reactjs, nextjs, redux, bootstrap, tailwind, expressjs, nodejs, mongodb, mysql, hosting**
-
 - 📫 How to reach me **mf2028136@gmail.com**
-
-- ⚡ Fun fact **I think i know the art to shut-up critics**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
