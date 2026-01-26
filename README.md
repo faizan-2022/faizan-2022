@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **NextJs, GenAI**
 
-- 📫 How to reach me **webdev.mfaizan@gmail.com**
+- 📫 Reach out to me **webdev.mfaizan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
